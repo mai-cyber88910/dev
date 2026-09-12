@@ -6,6 +6,7 @@ Here’s how you know
 Here's how you know
 
 Menu
+</ssl certs/hidden/>
 FPKI Ecosystem Changes
 Upcoming FBCA G5 Migration
 The FBCA G4 is going to be replaced by the FBCA G5 starting on August 27th, 2026. This is to comply with CA certificate lifecycle management and Federal cryptographic strength requirements and may require applications to update their trust stores with new intermediate CA certificates to ensure interoperability with FBCA affiliate issued credentials.
@@ -427,4 +428,4 @@ Issuer: CN = USPTO_INTR_CA1, CN = AIA, CN = Public Key Services, CN = Services, 
 Serial #: 4c296f47
 Validity: April 7, 2018 to December 7, 2029
 SHA-1 Hash: bc67b9e65ee05c3742c27187259ded3e6112a587
-CRL DP: http://ipki.uspto.gov/IPKI/CRLs/CombinedCRL3.crl
+CRL DP: http://ipki.uspto.gov/IPKI/CRLs/CombinedCRL3.crl<\end\hidden\>
